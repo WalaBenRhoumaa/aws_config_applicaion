@@ -1,0 +1,14 @@
+Host frontend
+    HostName 35.165.130.122
+    User ubuntu
+    IdentityFile ~/.ssh/wala.pem
+
+Host backend
+    HostName 54.201.178.186
+    User ubuntu
+    IdentityFile ~/.ssh/wala.pem
+
+Host database
+    HostName 35.93.155.246
+    User ubuntu
+    IdentityFile ~/.ssh/wala.pem
